@@ -19,3 +19,8 @@ This project focuses on building a sentiment analysis model that classifies text
 - NLTK / spaCy  
 - Pandas, NumPy  
 - Matplotlib, Seaborn
+## 📈 Example Use Cases:
+- Analyzing customer reviews from e-commerce platforms
+- Monitoring brand sentiment on social media
+- Understanding public opinion from survey data
+- Filtering toxic or inappropriate content in forums
